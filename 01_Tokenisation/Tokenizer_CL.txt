@@ -1,0 +1,41 @@
+# sent_id =  1
+# text =  En as atras comarcas aragonesas a on que se charró l'idioma, hue o substrato y influencia de l'aragonés ye encara perceptible en o castellano que se i fabla, más que más en os aragonesismos lexicos.
+
+             Form LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+0              En     -    -    -     -    -      -    -    -
+1              as     -    -    -     -    -      -    -    -
+2           atras     -    -    -     -    -      -    -    -
+3        comarcas     -    -    -     -    -      -    -    -
+4      aragonesas     -    -    -     -    -      -    -    -
+5               a     -    -    -     -    -      -    -    -
+6              on     -    -    -     -    -      -    -    -
+7             que     -    -    -     -    -      -    -    -
+8              se     -    -    -     -    -      -    -    -
+9          charró     -    -    -     -    -      -    -    -
+10       l'idioma     -    -    -     -    -      -    -    -
+11              ,     -    -    -     -    -      -    -    -
+12            hue     -    -    -     -    -      -    -    -
+13              o     -    -    -     -    -      -    -    -
+14      substrato     -    -    -     -    -      -    -    -
+15              y     -    -    -     -    -      -    -    -
+16     influencia     -    -    -     -    -      -    -    -
+17             de     -    -    -     -    -      -    -    -
+18     l'aragonés     -    -    -     -    -      -    -    -
+19             ye     -    -    -     -    -      -    -    -
+20         encara     -    -    -     -    -      -    -    -
+21    perceptible     -    -    -     -    -      -    -    -
+22             en     -    -    -     -    -      -    -    -
+23              o     -    -    -     -    -      -    -    -
+24     castellano     -    -    -     -    -      -    -    -
+25            que     -    -    -     -    -      -    -    -
+26             se     -    -    -     -    -      -    -    -
+27              i     -    -    -     -    -      -    -    -
+28          fabla     -    -    -     -    -      -    -    -
+29              ,     -    -    -     -    -      -    -    -
+30            más     -    -    -     -    -      -    -    -
+31            que     -    -    -     -    -      -    -    -
+32            más     -    -    -     -    -      -    -    -
+33             en     -    -    -     -    -      -    -    -
+34             os     -    -    -     -    -      -    -    -
+35  aragonesismos     -    -    -     -    -      -    -    -
+36     lexicos.\n     -    -    -     -    -      -    -    -
