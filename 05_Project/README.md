@@ -4,7 +4,7 @@
 hearing-impaired and mute people to communicate within and outside of their social groups. The goal of sign-language
 recognition(SLR), is to identify acquired hand motions and to continue until
 related hand gestures are translated. The
-fact that some or all of the ordinary people do not speak this language and that every country has its sign language creates a
+fact that some or all of the ordinary people do not speak this language and that every country has its sign language creates a
 barrier to communication. I have created a
 model that can understand the gestures and
 translate them to cater to a wider audience.
